@@ -1,3 +1,7 @@
+This is an api based web app used to search for games, their prices and deals available on them from 4 different stores.
+
+Read below for the instructions to use:
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
